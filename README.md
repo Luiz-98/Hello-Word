@@ -1,2 +1,2 @@
 # Hello-Word
-Apenas uma anotação 
+Apenas testando a plataforma, aparentemente simples e facíl de usar.
